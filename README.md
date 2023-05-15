@@ -1,2 +1,2 @@
 # calculator
-github deploy link:-
+github deploy link:-https://aliparvej.github.io/calculator/
